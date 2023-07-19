@@ -133,6 +133,8 @@ wget -P pretrain/ https://huggingface.co/lj1995/VoiceConversionWebUI/resolve/mai
 
 + 预训练底模文件： `G_0.pth` `D_0.pth`
   + 放在`logs/44k`目录下
+  
+  下载模型 [预训练底模](https://huggingface.co/justinjohn-03/so-vits-svc-4.0-v2-pretrained/tree/main)
 
 + 扩散模型预训练底模文件： `model_0.pt `
   + 放在`logs/44k/diffusion`目录下

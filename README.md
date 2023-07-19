@@ -133,6 +133,8 @@ wget -P pretrain/ http://obs.cstcloud.cn/share/obs/sankagenkeshi/checkpoint_best
 
 - Pre-trained model files: `G_0.pth` `D_0.pth`
   - Place them under the `logs/44k` directory
+  Download [Pre-trained model](https://huggingface.co/justinjohn-03/so-vits-svc-4.0-v2-pretrained/tree/main)
+
 
 - Diffusion model pretraining base model file: `model_0.pt`
   - Put it in the `logs/44k/diffusion` directory
